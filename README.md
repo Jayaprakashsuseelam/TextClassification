@@ -13,7 +13,6 @@ This repository contains a Jupyter Notebook for text classification using machin
 
 
 ## 📌 Screenshots
-![Plot](images/imdb_data.png)
-![Summary](images/summary.png)
-![Accuracy History](images/word_cloud.png)
-![Accuracy Plot](images/classification.png)
+![IMDB Data](images/imdb_data.png)
+![Word Count](images/word_cloud.png)
+![Classification](images/classification.png)
